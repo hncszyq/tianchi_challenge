@@ -1,4 +1,4 @@
-# Modified version based on https://github.com/ZhengyuZhao/Targeted-Tansfer/eval_ensemble.py
+# Modified version based on https://github.com/ZhengyuZhao/Targeted-Tansfer/blob/main/eval_ensemble.py
 
 import torch
 import torch.nn as nn
